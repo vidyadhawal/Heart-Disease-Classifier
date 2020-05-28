@@ -52,9 +52,11 @@ The following tools are going to be used for data analysis, manipulation and mod
 * numpy
 * scikit-learn
 
+## 5. Results
+Confusion_matrix
+Pecision
+Recall
+AUC-ROC curve
 
-### ROC curve
-
-![ROC Curve](https://github.com/navendu-pottekkat/heart-disease-classifier/blob/master/plots/roc-curve.png)
 
 Please leave a ⭐ if you find this useful! Feel free to reach out to me for any queries!
